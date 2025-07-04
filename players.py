@@ -1,5 +1,5 @@
 players = [
-    ("Gild56", ["@gild56gmd", "🇺🇦", "", ""], [], []),
+    ("Gild56", ["@gild56gmd", "🇺🇦", "", "The owner and the coder of this website and the creator of all these levels :)"], [], []),
     ("MysticNull", ["@mystic_nullgmd", "🇺🇸", "", "A friend, YouTuber and demonslayer from Florida. He verified Shitty Andromeda on video without even knowing it xD"], [], []),
     ("kevino", ["@qelzzu", "🇩🇴", "", "A friend, the verifier of Psychedelique and the first vicor of Shitty Amethyst."], [], []),
     ("Uranium", ["@UraniumGMD", "🇦🇿", "", "A friend and the top 1 player of the list by farming all the levels, GG :D"], [], []),

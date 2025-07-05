@@ -1,4 +1,4 @@
-levels_list_top = [
+levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     (
         "Shitty Andromeda", "117654982", "Verified by MysticNull, I still haven't beaten it. The shitty version of Andromeda by Insxne97. My most popular level (5k+ downloads). It's very fun apparently.", "",
         {

@@ -7,12 +7,13 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
             "Panzer": "WhqFgxmTCao",
             "minhmnvnnet": "bbMTnAIevJQ",
             "Loliquiem": "xYnbnX8A1Y8",
-            "Uranium": "VFcTWldB5Eg"
+            "Uranium": "VFcTWldB5Eg",
+            "KapiplaysDE": "IsqiostPq2Y"
         }
     ),
     (
         "Shitty Amethyst", "119245212", "The shitty version of Amethyst by iMist and more.", "MAbKQYjl58w",
-        {"kevino": "6YYLqPJru3k", "Uranium": "JUtvR4n1QEg"}
+        {"kevino": "6YYLqPJru3k", "Uranium": "JUtvR4n1QEg", "MysticNull": "AXXkOjcXSwc"}
     ),
     ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI"}),
     ("Shitty Kyouki", "98974967", "My first shitty, so the structures are weird. There will be a decorated remake of this level called Zetsubo.", "cZa2Z-GuELA", {"Uranium": "V4DdMNJZEXQ"}),
@@ -25,7 +26,7 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
         {"kevino": "TWoWBQoVIcI", "Uranium": "0bEkgeZPa44"}
     ),
     ("Deadly", "92834018", "It was my first level ever.", "Wk6y5i2J4fc", {"Uranium": "guO94dYCuJ0"}),
-    ("A R K A D", "117224480", "I'm still decorating this level, by best deco ever i think, experimental level.", "CTnt37z8EyI", {"Uranium": "8wmMrd4LuZ0"}),
+    ("A R K A D", "123148527", "I'm still decorating this level, by best deco ever i think, experimental level.", "CTnt37z8EyI", {"Uranium": "8wmMrd4LuZ0"}),
     ("The Ghost", "120506430", "This level was started for the NCS Gauntlet Contest. I'm building a sequel to it: The Ghost II", "MYGc6EVA6_s", {"Uranium": "6HdDrd-_DIo"}),
     ("Hell", "117690091", "It was my first decorated level in 1.9 style I guess.", "QOaq_4wW9MA", {"Uranium": "tpHybmA5FqM"}),
     ("Game", "78486270", "My second try in modern / experimental style.", "yuNy6c-nCXc", {"Uranium": "qvAKe1wTzeE"}),

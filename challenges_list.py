@@ -15,5 +15,13 @@ challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("SpaM IV", "98737697", "Easy UFO spam but the last click is tricky.", "tESDqZi61A4", {"Uranium": "-ksCPqt1qyU"}),
     ("SpaM III", "98737614", "Short easy wave spam.", "CEmyGhWZXtU", {"Uranium": "-ksCPqt1qyU"}),
     ("Unnamed", "91831572", "Straightfly challenge from Element 111 RG but easier.", "wX3nusb0ZHw", {"Uranium": "-ksCPqt1qyU"}),
-    ("SpaM II", "98737338", "Easy pink orbs spam on cube.", "Dz4hY_DQBa4", {"Uranium": "-ksCPqt1qyU"})
+    ("SpaM II", "98737338", "Easy pink orbs spam on cube.", "Dz4hY_DQBa4", {"Uranium": "-ksCPqt1qyU"}),
+    ("Cube Challenge", "123317744", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {}),
+    ("Ship Challenge", "123318508", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": ""}),
+    ("Ball Challenge", "123319310", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": ""}),
+    ("UFO Challenge", "123320075", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": ""}),
+    ("Wave Challenge Y", "123321027", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": ""}),
+    ("Robot Challenge", "123439077", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": ""}),
+    ("Spider Challenge", "123439088", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": ""}),
+    ("Swing Challenge", "123439096", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {})
 ]

@@ -7,5 +7,6 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Panzer", ["@TheRealPanzer", "Unknown", "", "A random victor of Shitty Andromeda on YouTube."], [], []),
     ("minhmnvnnet", ["@minhmnvnnet", "Unknown", "", "A random victor of Shitty Andromeda on YouTube."], [], []),
     ("Loliquiem", ["@loliquiemgd", "Unknown", "", "A random victor of Shitty Andromeda on YouTube."], [], []),
-    ("Ylissen", ["@Ylissen", "MA", "Ylissen", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic"], [], [])
+    ("Ylissen", ["@Ylissen", "MA", "Unknown", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic"], [], []),
+    ("Kar0lek", ["@AuroraGD46", "PO", "Unknown", ""], [], [])
 ]

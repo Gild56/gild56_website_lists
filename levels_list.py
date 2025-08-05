@@ -13,11 +13,11 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ),
     (
         "Shitty Amethyst", "119245212", "The shitty version of Amethyst by iMist and more.", "MAbKQYjl58w",
-        {"kevino": "6YYLqPJru3k", "Uranium": "JUtvR4n1QEg", "MysticNull": "AXXkOjcXSwc"}
+        {"kevino": "6YYLqPJru3k", "Uranium": "JUtvR4n1QEg", "MysticNull": "AXXkOjcXSwc", "Loliquiem": "QuJpWDgxIRg"}
     ),
-    ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI"}),
+    ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI", "Kar0lek": "iHP_RnyrRHs"}),
     ("Shitty Kyouki", "98974967", "My first shitty, so the structures are weird. There will be a decorated remake of this level called Zetsubo.", "cZa2Z-GuELA", {"Uranium": "V4DdMNJZEXQ"}),
-    ("Zetsubo", "116223549", "Decorated version of Shitty Kyouki, obviously inspiried by Kyouki, it's still in the works.", "wyvoqTdoxUg", {"Uranium": "E10a9yGN-a4"}),
+    ("Zetsubo", "116223549", "Decorated version of Shitty Kyouki, obviously inspiried by Kyouki, it's still in the works.", "wyvoqTdoxUg", {"Uranium": "E10a9yGN-a4", "Loliquiem": "QuJpWDgxIRg"}),
     ("La Longue Attente", "111681924", "It's a remake of Muy Larga Espera, my Larga Espera's unfficial sequel about the 2.2 waiting. Took me a long time to make but I'm happy with the result, except some little details.", "gnJuXF-4evI", {"Uranium": "lxigrtaqVvM"}),
     ("Obsolete", "114906890", "It was supposed to be a layout so i'm happy with that, it represents depression and stuff so yeah.", "PmA-K0BVJf8", {"Uranium": "ev4LtifbEgc"}),
     ("Shmyak", "95464632", "The bossfight of this level is unfinished, it was supposed to be decorated.", "", {"Uranium": "0JjWe9vY-TI"}),

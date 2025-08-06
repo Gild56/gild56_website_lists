@@ -5,7 +5,7 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
             "MysticNull": "HCggJgITYsY",
             "Itwabosballss": "nIscZym2wdY",
             "Panzer": "WhqFgxmTCao",
-            "minhmnvnnet": "bbMTnAIevJQ",
+            "Minhmnvnnet": "bbMTnAIevJQ",
             "Loliquiem": "xYnbnX8A1Y8",
             "Uranium": "VFcTWldB5Eg",
             "KapiplaysDE": "IsqiostPq2Y"

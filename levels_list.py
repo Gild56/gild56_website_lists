@@ -8,12 +8,19 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
             "Minhmnvnnet": "bbMTnAIevJQ",
             "Loliquiem": "xYnbnX8A1Y8",
             "Uranium": "VFcTWldB5Eg",
-            "KapiplaysDE": "IsqiostPq2Y"
+            "KapiplaysDE": "IsqiostPq2Y",
+            "Djo2x": "z2-K1heTH5g"
         }
     ),
     (
         "Shitty Amethyst", "119245212", "The shitty version of Amethyst by iMist and more.", "MAbKQYjl58w",
-        {"kevino": "6YYLqPJru3k", "Uranium": "JUtvR4n1QEg", "MysticNull": "AXXkOjcXSwc", "Loliquiem": "QuJpWDgxIRg"}
+        {
+            "kevino": "6YYLqPJru3k",
+            "Uranium": "JUtvR4n1QEg",
+            "MysticNull": "AXXkOjcXSwc",
+            "Loliquiem": "QuJpWDgxIRg",
+            "Djo2x": "KGjPdL_UKYQ"
+        }
     ),
     ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI", "Kar0lek": "iHP_RnyrRHs"}),
     ("Shitty Kyouki", "98974967", "My first shitty, so the structures are weird. There will be a decorated remake of this level called Zetsubo.", "cZa2Z-GuELA", {"Uranium": "V4DdMNJZEXQ"}),

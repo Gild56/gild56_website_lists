@@ -8,6 +8,6 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Minhmnvnnet", ["@minhmnvnnet", "VN", "", "A skilled player from Vietnam."], [], []),
     ("Loliquiem", ["@loliquiemgd", "KR", "", "Challenge was created for his request."], [], []),
     ("Ylissen", ["@Ylissen", "MA", "", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic"], [], []),
-    ("Kar0lek", ["@AuroraGD46", "PO", "", "A player and a creator from Poland"], [], []),
+    ("Kar0lek", ["@AuroraGD46", "PL", "", "A player and a creator from Poland"], [], []),
     ("Djo2x", ["@GDIlHHHlI", "CV", "", "A player from Cabo Verde. THE farmer of this list, especially challenges XD"], [], [])
 ]

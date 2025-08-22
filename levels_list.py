@@ -19,10 +19,11 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
             "Uranium": "JUtvR4n1QEg",
             "MysticNull": "AXXkOjcXSwc",
             "Loliquiem": "QuJpWDgxIRg",
-            "Djo2x": "KGjPdL_UKYQ"
+            "Djo2x": "KGjPdL_UKYQ",
+            "Minhmnvnnet": "qkCziGeTFhI"
         }
     ),
-    ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI", "Kar0lek": "iHP_RnyrRHs", "Djo2x": "BV_CAI2Ti2g"}),
+    ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI", "Kar0lek": "iHP_RnyrRHs", "Djo2x": "BV_CAI2Ti2g", "Loliquiem": "wZERQtq8e-s"}),
     ("Shitty Kyouki", "98974967", "My first shitty, so the structures are weird. There will be a decorated remake of this level called Zetsubo.", "cZa2Z-GuELA", {"Uranium": "V4DdMNJZEXQ", "Djo2x": "F770F9fgDXU"}),
     ("Zetsubo", "116223549", "Decorated version of Shitty Kyouki, obviously inspiried by Kyouki, it's still in the works.", "wyvoqTdoxUg", {"Uranium": "E10a9yGN-a4", "Loliquiem": "QuJpWDgxIRg", "Djo2x": "9kcx_5jKeEs"}),
     ("La Longue Attente", "111681924", "It's a remake of Muy Larga Espera, my Larga Espera's unfficial sequel about the 2.2 waiting. Took me a long time to make but I'm happy with the result, except some little details.", "gnJuXF-4evI", {"Uranium": "lxigrtaqVvM"}),
@@ -33,7 +34,7 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
         {"kevino": "TWoWBQoVIcI", "Uranium": "0bEkgeZPa44", "Kar0lek": "YCvJ3_3E-Bk"}
     ),
     ("Deadly", "92834018", "It was my first level ever.", "Wk6y5i2J4fc", {"Uranium": "guO94dYCuJ0"}),
-    ("A R K A D", "123148527", "I'm still decorating this level, by best deco ever i think, experimental level.", "CTnt37z8EyI", {"Uranium": "8wmMrd4LuZ0"}),
+    ("A R K A D", "123148527", "My best level yet 77 hours / 14k+ objects / 260+ groups Dedicated to ., Kikuizz, Ylissen, One, Wulzy, and everyone who supported me! Thank you all! 06/08/2025", "fwXcGNQC5BA", {"Uranium": "8wmMrd4LuZ0", "Loliquiem": "odF7sPTyS5U"}),
     ("The Ghost", "120506430", "This level was started for the NCS Gauntlet Contest. I'm building a sequel to it: The Ghost II", "MYGc6EVA6_s", {"Uranium": "6HdDrd-_DIo"}),
     ("Hell", "117690091", "It was my first decorated level in 1.9 style I guess.", "QOaq_4wW9MA", {"Uranium": "tpHybmA5FqM"}),
     ("Game", "78486270", "My second try in modern / experimental style.", "yuNy6c-nCXc", {"Uranium": "qvAKe1wTzeE"}),

@@ -5,9 +5,9 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Uranium", ["@UraniumGMD", "AZ", "", "A friend and the top 1 player of the list after farming all the levels, GG! :D Hardest: Auto Play Arena"], [], []),
     ("Itwabosballss", ["@Picklehi27GD", "Unknown", "", "A random victor of Shitty Andromeda on YouTube."], [], []),
     ("Panzer", ["@TheRealPanzer", "Unknown", "", "A random victor of Shitty Andromeda on YouTube."], [], []),
-    ("Minhmnvnnet", ["@minhmnvnnet", "VN", "", "A random victor of Shitty Andromeda on YouTube."], [], []),
+    ("Minhmnvnnet", ["@minhmnvnnet", "VN", "", "A skilled player from Vietnam."], [], []),
     ("Loliquiem", ["@loliquiemgd", "KR", "", "Challenge was created for his request."], [], []),
     ("Ylissen", ["@Ylissen", "MA", "", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic"], [], []),
-    ("Kar0lek", ["@AuroraGD46", "PO", "", ""], [], []),
-    ("Djo2x", ["@GDIlHHHlI", "CV", "", ""], [], [])
+    ("Kar0lek", ["@AuroraGD46", "PO", "", "A player and a creator from Poland"], [], []),
+    ("Djo2x", ["@GDIlHHHlI", "CV", "", "A player from Cabo Verde. THE farmer of this list, especially challenges XD"], [], [])
 ]

@@ -1,9 +1,10 @@
 challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
-    ("Slaughterhouse Spam", "116995082", "Repeated 9 times spam from Slaughterhouse but without decoration. I accidentally beat it once lol xD", "None", {"Djo2x": "uJCV6Vz4WQ8"}),
-    ("12qwe2d1", "108396972", "A remake of a wave challenge \"12qwe2d\" from the recent tab.", "hwpEIjr2yK4", {"Uranium": "wAk654ofMr8", "Djo2x": "Z_tqwxRz7JQ"}),
+    ("Slaughterhouse Spam", "116995082", "Repeated 9 times spam from Slaughterhouse but without decoration. I accidentally beat it once lol xD", "None", {"Minhmnvnnet": "0zf8fClSpPw", "Djo2x": "uJCV6Vz4WQ8"}),
     ("RubRub", "114906934", "A random layout with a random name. It's also known as \"MysticNull Challenge\" or \"Litox Challenge\"", "lvV6n0OnDJ8", {"Uranium": "DTAxFikLK0w", "Djo2x": "LoU1AbU8uCg"}),
+    ("Challenge", "123878042", "Open verification to bring Uranium back in the game :) (success)", "", {"Uranium": "laFShh49SGw", "Djo2x": "IrnjH15NGC4"}),
     ("Spam VIII", "119573592", "Very long blue orbs ball spam.", "None", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("Swing Challenge", "123439096", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Djo2x": "LoU1AbU8uCg"}),
+    ("12qwe2d1", "108396972", "A remake of a wave challenge \"12qwe2d\" from the recent tab.", "hwpEIjr2yK4", {"Uranium": "wAk654ofMr8", "Minhmnvnnet": "YEOkGWvpyXI", "Djo2x": "Z_tqwxRz7JQ"}),
     ("Wave Challenge Final", "116005641", "The layout of a random wave challenge.", "12kSrHiKKy8", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("LegendOfConsistensy", "92834008", "2 players mode consistensy challenge.", "89DMw4Mizag", {"Uranium": "DzTbL22toR8", "Djo2x": "LoU1AbU8uCg"}),
     ("DaughterHouse", "91833325", "A wave consistensy challenge I made a longtime ago. The demon at the beginning is my sister.", "None", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),

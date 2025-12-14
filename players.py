@@ -18,5 +18,10 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Matsuba", ["@MatsubaRELLA", "Unknown", "", "A person probably"], [], []),
     ("Kyon717", ["@kyon717", "Unknown", "", "A person probably"], [], []),
     ("AuguXD", ["@wasuretalover", "CL", "", "A player from Chile. Hardest: Wasureta asa jump from Moment"], [], []),
-    ("ItzLuis", ["@", "ES", "", "A player from Spain. (wPofpof)"], [], [])
+    ("ItzLuis", ["@", "ES", "", "A player from Spain. (wPofpof)"], [], []),
+    ("Toshi", ["@ToshiGD13", "AR", "", "A friend from Argentina and a super skilled effect creator :)"], [], []),
+    ("Ihv2010", ["@GD_Ihv", "ES", "", "the GOAT himself ;)"], [], []),
+    ("YTCrunchy", ["@iamCRUNCHYYY", "FR", "", "A french player who verified shitty 3sh"], [], [])
 ]
+
+#    ("", ["", "", "", ""], [], []),

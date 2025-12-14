@@ -13,7 +13,7 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Shmyak", "95464632", "The bossfight of this level is unfinished, it was supposed to be decorated.", "", {"Toffelz": "CQe27eN5gMs"}),
     ("Shitty Unknown", "128229264", "Verified by Toshi :)", "", {"Toshi": "eJuJqREzBjw", "Toffelz": "MGvpgawMgxQ"}),
     ("Shitty Acheron", "106334106", "The shitty version of Acheron by Ryamu and more. The original shitty was by Aztecs & SDK.", "2_qHffzsE0Q", {"Uranium": "axiuVRs22CI", "Tryqz": "iHP_RnyrRHs", "Djo2x": "BV_CAI2Ti2g", "Loliquiem": "wZERQtq8e-s", "Toffelz": "lr8Ont5IwHI"}),
-    ("Shitty Aquamarine", "128015020", "funny shitty ig verified by Xkcal", "", {"Xkcal": "c_LYgoQYEnc", "Djo2x": "n9tLr7MAUl4"}),
+    ("Shitty Aquamarine", "128015020", "funny shitty ig verified by Xkcal", "", {"Xkcal": "c_LYgoQYEnc", "Djo2x": "n9tLr7MAUl4", "Toffelz": "-c7z9bjUZME"}),
     ("Shitty Kyouki", "98974967", "My first shitty, so the structures are weird. There will be a decorated remake of this level called Zetsubo.", "cZa2Z-GuELA", {"Uranium": "V4DdMNJZEXQ", "Djo2x": "F770F9fgDXU", "Toffelz": "02rBI8ZeYZ0"}),
     ("Zetsubo", "116223549", "Decorated version of Shitty Kyouki, obviously inspiried by Kyouki, it's still in the works.", "wyvoqTdoxUg", {"Uranium": "E10a9yGN-a4", "Loliquiem": "QuJpWDgxIRg", "Djo2x": "9kcx_5jKeEs", "Toffelz": "ZO_KZ0Wlrhc"}),
     ("La Longue Attente", "111681924", "It's a remake of Muy Larga Espera, my Larga Espera's unfficial sequel about the 2.2 waiting. Took me a long time to make but I'm happy with the result, except some little details.", "gnJuXF-4evI", {"Uranium": "lxigrtaqVvM", "Toffelz": "FOXuygPfczI"}),

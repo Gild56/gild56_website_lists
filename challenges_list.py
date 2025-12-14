@@ -1,7 +1,7 @@
 challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Slaughterhouse Spam", "116995082", "Repeated 9 times spam from Slaughterhouse but without decoration. I accidentally beat it once lol xD", "None", {"Minhmnvnnet": "0zf8fClSpPw", "Djo2x": "uJCV6Vz4WQ8"}),
     ("RubRub", "114906934", "A random layout with a random name. It's also known as \"MysticNull Challenge\" or \"Litox Challenge\"", "lvV6n0OnDJ8", {"Uranium": "DTAxFikLK0w", "Djo2x": "LoU1AbU8uCg"}),
-    ("3sh In Hell", "128358030", "wiiiiiiiiiw (shitty 3sh x9)", "", {}),
+    ("3sh In Hell", "128358030", "wiiiiiiiiiw (shitty 3sh x9)", "", {"Uranium": "2rgodvXJvF0"}),
     ("Shitty Delusion", "128811828", "shitty d but longer", "", {"Uranium": "AcgS6zucacE"}),
     ("Shitty D", "128376571", "what a torture to build these structures loll", "", {"Minhmnvnnet": "YFrNHz8jwN8"}),
     ("Challenge", "123878042", "Open verification to bring Uranium back in the game :) (success)", "", {"Uranium": "laFShh49SGw", "Djo2x": "IrnjH15NGC4", "Loliquiem": "jw5iy6R6HdQ"}),

@@ -1,5 +1,5 @@
 levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
-    ("Shitty BOOBAWAMBA", "118987468", "My most complicated shitty // Verified by Ihv2010 the GOAT", "", {"Ihv2010": "9WQZpFRxwLQ", "Toffelz": "T9iM9meRWkU"}),
+    ("Shitty BOOBAWAMBA", "118987468", "My most complicated shitty // Verified by Ihv2010 the GOAT", "", {"Ihv2010": "9WQZpFRxwLQ"}),
     ("Shitty Sevvend Clubstep", "122105680", "Funny shitty with an unfunny ending verified by Uranium in 0 seconds lmao", "", {"Uranium": "pBPAb7w3vt4", "Minhmnvnnet": "FaCJbTRWS0U", "Loliquiem": "_Z547GyWVzs", "Miquella": "D0UYwjOcKvs", "Djo2x": "go0izJgceys", "Toffelz": "EvXHZtEV0fw"}),
     ("Shitty Avernus", "128766220", "Verified by MysticNull / My last shitty before the break", "", {"MysticNull": "GcmQB-cuHtY", "Toffelz": "JhBwRDrdPAc"}),
     ("Shitty Thinking Space II", "119641263", "Verified by Djo2x, clicks the orbs with the wave on the dual.", "", {"Djo2x": "sVZizuTXous", "Toffelz": "uRDeQa4al5g", "Minhmnvnnet": "3lRV889CUCA", "Uranium": "87ZkfLY50-o"}),

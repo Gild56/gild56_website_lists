@@ -9,7 +9,7 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Minhmnvnnet", ["@minhmnvnnet", "VN", "", "Minhmnvnnet // Minh - A skilled player from Vietnam. Hardest: Niwa"], [], []),
     ("Loliquiem", ["@loliquiemgd", "KR", "", "Challenge was created for his request. Hardest: Totem"], [], []),
     ("Ylissen", ["@Ylissen", "MA", "", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic"], [], []),
-    ("Tryqz", ["@Try4qz", "PL", "", "A player and a creator from Poland. Hardest: Nine Circles"], [], []),
+    ("Roxy", ["@Try4qz", "PL", "", "A player and a creator from Poland. Hardest: Nine Circles"], [], []),
     ("Djo2x", ["@GDIlHHHlI", "CV", "", "A player from Cabo Verde. THE farmer of this list, especially challenges XD, Hardest: Niwa"], [], []),
     ("Miquella", ["@Miquella7779", "MD", "", "Skilled player from Moldova"], [], []),
     ("AxisGD", ["@FireCyan803", "Unknown", "", "A person probably"], [], []),
@@ -21,7 +21,8 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("ItzLuis", ["@", "ES", "", "A player from Spain. (wPofpof)"], [], []),
     ("Toshi", ["@ToshiGD13", "AR", "", "A friend from Argentina and a super skilled effect creator :)"], [], []),
     ("Ihv2010", ["@GD_Ihv", "ES", "", "the GOAT himself ;)"], [], []),
-    ("YTCrunchy", ["@iamCRUNCHYYY", "FR", "", "A french player who verified shitty 3sh"], [], [])
+    ("YTCrunchy", ["@iamCRUNCHYYY", "FR", "", "A french player who verified shitty 3sh"], [], []),
+    ("Ben", ["@", "", "", "He died at the outro of shitty nullscapes lmaoooo"], [], []),
 ]
 
 #    ("", ["", "", "", ""], [], []),

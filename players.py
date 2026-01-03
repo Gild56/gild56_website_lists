@@ -22,7 +22,7 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Toshi", ["@ToshiGD13", "AR", "", "A friend from Argentina and a super skilled effect creator :)"], [], []),
     ("Ihv2010", ["@GD_Ihv", "ES", "", "the GOAT himself ;)"], [], []),
     ("YTCrunchy", ["@iamCRUNCHYYY", "FR", "", "A french player who verified shitty 3sh"], [], []),
-    ("Ben", ["@", "", "", "He died at the outro of shitty nullscapes lmaoooo"], [], []),
+    ("Ben", ["@bznztzplzyszvrythzng", "PH", "", "He died at the outro of shitty nullscapes lmaoooo"], [], []),
 ]
 
 #    ("", ["", "", "", ""], [], []),

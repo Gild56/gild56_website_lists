@@ -20,7 +20,7 @@ challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Ship Challenge", "123318508", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": "", "MysticNull": "gWtEkYCUri0", "Djo2x": "LoU1AbU8uCg"}),
     ("Wave Challenge Y", "123321027", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": "", "MysticNull": "gWtEkYCUri0", "Djo2x": "LoU1AbU8uCg"}),
     ("Shitty VSC", "128014988", "a funny one", "None", {"Roxy": "mtMNCvue8oo", "Djo2x": "n9tLr7MAUl4"}),
-    ("3sh", "128354755", "wiw", "None", {"YTCrunchy": "lX7328XBd10"}),
+    ("Shitty 3sh", "128354755", "wiw", "None", {"YTCrunchy": "lX7328XBd10"}),
     ("Spider Challenge", "123439088", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": "", "MysticNull": "gWtEkYCUri0", "Djo2x": "LoU1AbU8uCg"}),
     ("UFO Challenge", "123320075", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": "", "MysticNull": "gWtEkYCUri0", "Djo2x": "LoU1AbU8uCg"}),
     ("Robot Challenge", "123439077", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"Ylissen": "", "MysticNull": "gWtEkYCUri0", "Djo2x": "LoU1AbU8uCg"}),

@@ -2,7 +2,7 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Shitty BOOBAWAMBA", "118987468", "My most complicated shitty // Verified by Ihv2010 the GOAT", "", {"Ihv2010": "9WQZpFRxwLQ", "toffelz": "q7Ni3tdlmGA", "Minh": "d41EZXfhnWI "}),
     ("Shitty Sevvend Clubstep", "122105680", "Funny shitty with an unfunny ending verified by Uranium in 0 seconds lmao", "", {"Uranium": "pBPAb7w3vt4", "Minh": "FaCJbTRWS0U", "Loliquiem": "_Z547GyWVzs", "Miquella": "D0UYwjOcKvs", "Djo2x": "go0izJgceys", "Toffelz": "EvXHZtEV0fw"}),
     ("Shitty Avernus", "128766220", "Verified by MysticNull / My last shitty before the break", "", {"MysticNull": "GcmQB-cuHtY", "Toffelz": "JhBwRDrdPAc"}),
-    ("Shitty Thinking Space II", "119641263", "Verified by Djo2x, clicks the orbs with the wave on the dual.", "", {"Djo2x": "sVZizuTXous", "Toffelz": "uRDeQa4al5g", "Minh": "3lRV889CUCA", "Uranium": "87ZkfLY50-o", "Roxy": "QvLKGqf3jxQ"}),
+    ("Shitty Thinking Space II", "119641263", "Verified by Djo2x, clicks the orbs with the wave on the dual.", "", {"Djo2x": "sVZizuTXous", "Toffelz": "uRDeQa4al5g", "Minh": "3lRV889CUCA", "Uranium": "87ZkfLY50-o", "Roxy": "QvLKGqf3jxQ", "kevino": ""}),
     ("Shitty XO Circles", "114410193", "Verified by Uranium in 0.5 attempts.", "", {"Uranium": "2AiXkagax_0", "Toffelz": "y_kwtx3vbR4"}),
     ("Shitty Low Tide", "126917590", "Side quest shitty built in 3 days, playtested and verified by Djo2x! Loliquiem apparently is the second vicotr without recording.", "", {"Djo2x0": "7D9hCWvJTUs", "Uranium": "Ya-HUnHdr-U", "Toffelz": "7fCX5foNAgc"}),
     ("Shitty KOCMOC UNLEASHED", "128024481", "Build in one 4h40 stream and verified by Toffelz on it :)", "", {"Toffelz": "BWsXBJJyxec"}),

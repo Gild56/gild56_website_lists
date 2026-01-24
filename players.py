@@ -9,7 +9,7 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Minh", ["@minhmnvnnet", "VN", "", "Minhmnvnnet // Minh - A skilled player from Vietnam. Hardest: Clarity // Admin"], [], []),
     ("Loliquiem", ["@loliquiemgd", "KR", "", "Challenge was created for his request. Hardest: Totem"], [], []),
     ("Ylissen", ["@Ylissen", "MA", "", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic // Bloodbath 17-100 + 90x2 (soon)"], [], []),
-    ("Roxy", ["@Try4qz", "PL", "", "A great player and a creator from Poland. Hardest: Shitty TS II // Admin"], [], []),
+    ("Roxy", ["@R0XY_0-1", "PL", "", "A great player and a creator from Poland. Hardest: Shitty TS II // Admin"], [], []),
     ("Djo2x", ["@GDIlHHHlI", "CV", "", "A player from Cabo Verde. THE farmer of this list, especially challenges XD, Hardest: Napalm"], [], []),
     ("Miquella", ["@Miquella7779", "MD", "", "Skilled player from Moldova"], [], []),
     ("AxisGD", ["@FireCyan803", "Unknown", "", "A person probably"], [], []),

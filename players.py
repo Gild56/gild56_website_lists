@@ -6,11 +6,11 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Uranium", ["@UraniumGMD", "AZ", "", "Hardest: Auto Play Arena | Hacked everything"], [], []),
     ("Itwabosballss", ["@Picklehi27GD", "Unknown", "", "A person probably. Hardest: Reanimate"], [], []),
     ("Panzer", ["@TheRealPanzer", "Unknown", "", "A person probably"], [], []),
-    ("Minh", ["@minhmnvnnet", "VN", "", "Minhmnvnnet // Minh - A skilled player from Vietnam. Hardest: Niwa // Admin"], [], []),
+    ("Minh", ["@minhmnvnnet", "VN", "", "Minhmnvnnet // Minh - A skilled player from Vietnam. Hardest: Clarity // Admin"], [], []),
     ("Loliquiem", ["@loliquiemgd", "KR", "", "Challenge was created for his request. Hardest: Totem"], [], []),
-    ("Ylissen", ["@Ylissen", "MA", "", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic"], [], []),
-    ("Roxy", ["@Try4qz", "PL", "", "A great player and a creator from Poland. Hardest: Shitty TS II"], [], []),
-    ("Djo2x", ["@GDIlHHHlI", "CV", "", "A player from Cabo Verde. THE farmer of this list, especially challenges XD, Hardest: Niwa"], [], []),
+    ("Ylissen", ["@Ylissen", "MA", "", "A friend and the top 5 (former top 4 xD) Morocco player on Global List (la dash orbe noire) Hardest: Hypersonic // Bloodbath 17-100 + 90x2 (soon)"], [], []),
+    ("Roxy", ["@Try4qz", "PL", "", "A great player and a creator from Poland. Hardest: Shitty TS II // Admin"], [], []),
+    ("Djo2x", ["@GDIlHHHlI", "CV", "", "A player from Cabo Verde. THE farmer of this list, especially challenges XD, Hardest: Napalm"], [], []),
     ("Miquella", ["@Miquella7779", "MD", "", "Skilled player from Moldova"], [], []),
     ("AxisGD", ["@FireCyan803", "Unknown", "", "A person probably"], [], []),
     ("Ultraviolet", ["@Ultraviolet977", "Unknown", "", "A person probably"], [], []),
@@ -20,9 +20,10 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("AuguXD", ["@wasuretalover", "CL", "", "A player from Chile. Hardest: Wasureta asa jump from Moment"], [], []),
     ("ItzLuis", ["@", "ES", "", "A player from Spain. (wPofpof)"], [], []),
     ("Toshi", ["@ToshiGD13", "AR", "", "A friend from Argentina and a super skilled effect creator :)"], [], []),
-    ("Ihv2010", ["@GD_Ihv", "ES", "", "the GOAT himself ;)"], [], []),
+    ("Ihv2010", ["@GD_Ihv", "ES", "", "the GOAT himself ;) // Admin"], [], []),
     ("YTCrunchy", ["@iamCRUNCHYYY", "FR", "", "A french player who verified shitty 3sh"], [], []),
     ("Ben", ["@bznztzplzyszvrythzng", "PH", "", "He died at the outro of shitty nullscapes lmaoooo"], [], []),
+    ("ScOrbunn7", ["@Scorbunn7GD", "AR", "", "Aka erazor_delata"], [], [])
 ]
 
 #    ("", ["", "", "", ""], [], []),

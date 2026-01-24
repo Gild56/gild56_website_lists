@@ -30,7 +30,7 @@ challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("SpaM IV", "98737697", "Easy UFO spam but the last click is tricky.", "tESDqZi61A4", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("SpaM III", "98737614", "Short easy wave spam.", "CEmyGhWZXtU", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("Unnamed", "91831572", "Straightfly challenge from Element 111 RG but easier.", "wX3nusb0ZHw", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
-    ("Shitty Diamond Dance", "127610277", "Verified by ItzLuis. Part from Shitty Sakupen Circles for fun.", "JwY4Hirgorw", {"Itz Luis": "", "Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg", "Minh": "3lRV889CUCA"}),
+    ("Shitty Diamond Dance", "127610277", "Verified by ItzLuis. Part from Shitty Sakupen Circles for fun.", "JwY4Hirgorw", {"ItzLuis": "b21aDb7bAD4", "Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg", "Minh": "3lRV889CUCA"}),
     ("SpaM II", "98737338", "Easy pink orbs spam on cube.", "Dz4hY_DQBa4", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"})
 ]
 

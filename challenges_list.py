@@ -4,7 +4,7 @@ challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Shitty 3sh In Hell", "128358030", "wiiiiiiiiiw (shitty 3sh x9)", "", {"Uranium": "2rgodvXJvF0"}),
     ("Shitty Delusion", "128811828", "shitty d but longer", "", {"Uranium": "AcgS6zucacE"}),
     ("Shitty D", "128376571", "what a torture to build these structures loll", "", {"Minh": "YFrNHz8jwN8"}),
-    ("Challenge", "123878042", "Open verification to bring Uranium back in the game :) (success)", "", {"Uranium": "laFShh49SGw", "Djo2x": "IrnjH15NGC4", "Loliquiem": "jw5iy6R6HdQ"}),
+    ("Challenge", "123878042", "Open verification to bring Uranium back in the game :) (success)", "", {"Uranium": "laFShh49SGw", "Djo2x": "IrnjH15NGC4", "Xkcal": "jw5iy6R6HdQ"}),
     ("Spam VIII", "119573592", "Very long blue orbs ball spam.", "None", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("Swing Challenge", "123439096", "A level built for the challenge swap with Ylissen. We has 10 minutes to build and verify. A video about it is coming soon", "None", {"MysticNull": "gWtEkYCUri0", "Djo2x": "LoU1AbU8uCg"}),
     ("12qwe2d1", "108396972", "A remake of a wave challenge \"12qwe2d\" from the recent tab.", "hwpEIjr2yK4", {"Uranium": "wAk654ofMr8", "Minh": "YEOkGWvpyXI", "Djo2x": "Z_tqwxRz7JQ"}),
@@ -30,7 +30,7 @@ challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("SpaM IV", "98737697", "Easy UFO spam but the last click is tricky.", "tESDqZi61A4", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("SpaM III", "98737614", "Short easy wave spam.", "CEmyGhWZXtU", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("Unnamed", "91831572", "Straightfly challenge from Element 111 RG but easier.", "wX3nusb0ZHw", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
-    ("Shitty Diamond Dance", "127610277", "Verified by ItzLuis. Part from Shitty Sakupen Circles for fun.", "JwY4Hirgorw", {"ItzLuis": "b21aDb7bAD4", "Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg", "Minh": "3lRV889CUCA"}),
+    ("Shitty Diamond Dance", "127610277", "Verified by ItzLuis. Part from Shitty Sakupen Circles for fun.", "JwY4Hirgorw", {"ItzLuis": "b21aDb7bAD4", "Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg", "Minh": "3lRV889CUCA", "Frytkaaaa": "8PwiJoje7gY"}),
     ("SpaM II", "98737338", "Easy pink orbs spam on cube.", "Dz4hY_DQBa4", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"})
 ]
 

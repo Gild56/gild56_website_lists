@@ -18,13 +18,23 @@ players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Matsuba", ["@MatsubaRELLA", "Unknown", "", "A person probably", ""], [], []),
     ("Kyon717", ["@kyon717", "Unknown", "", "A person probably", ""], [], []),
     ("AuguXD", ["@wasuretalover", "CL", "", "A player from Chile. Hardest: Wasureta asa jump from Moment", ""], [], []),
-    ("ItzLuis", ["@", "ES", "", "A player from Spain. (wPofpof)", ""], [], []),
+    ("ItzLuis", ["@ItzAndreasGD", "ES", "", "A player from Spain. (wPofpof)", ""], [], []),
     ("Toshi", ["@ToshiGD13", "AR", "", "A friend from Argentina and a super skilled effect creator :)", ""], [], []),
     ("Ihv2010", ["@GD_Ihv", "ES", "", "the GOAT himself ;) // Admin", "GILD"], [], []),
     ("YTCrunchy", ["@iamCRUNCHYYY", "FR", "", "A french player who verified shitty 3sh", ""], [], []),
     ("Ben", ["@bznztzplzyszvrythzng", "PH", "", "He died at the outro of shitty nullscapes lmaoooo", ""], [], []),
     ("ScOrbunn7", ["@Scorbunn7GD", "AR", "", "Aka erazor_delata", ""], [], []),
-    ("Frytkaaaa", ["@FrytkaaaaGD", "PL", "", "Frytkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  |  Hardest: Shitty Acheron", "YEN"], [], [])
+    ("Frytkaaaa", ["@FrytkaaaaGD", "PL", "", "Frytkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  |  Hardest: Shitty Acheron", "YEN"], [], []),
+    ("Illyes", ["", "FR", "", "Top 1 player of Bourgogne-Franche-Compté | Hardest: KOCMOC", ""], [], []),
+    ("Blue Orbe", ["", "FR", "", "Skilled player and creator | Hardest: Conclusion", ""], [], []),
+    ("Qibli", ["", "FR", "", "Hardest: Widestep", ""], [], []),
+    ("Humanoid", ["", "US", "", "Hardest: Bloodbath", ""], [], []),
+    ("KirbyLuve", ["", "FR", "", "Hardest: Shardscapes", ""], [], []),
+    ("Oasis313", ["", "FR", "", "Hardest: Moving Forward", ""], [], []),
+    ("Sao", ["", "FR", "", "Hardest: Freedom08", ""], [], []),
+    ("Lexizz", ["", "FR", "", "Hardest: Auditory Breaker", ""], [], []),
+    ("SKYZ", ["", "FR", "", "Hardest: SWI", ""], [], []),
+    ("Kikouiz", ["", "FR", "", "Hardest: Acu on phone! / Friend I coached from easy demon to first extreme", ""], [], [])
 ]
 
 #    ("", ["", "", "", "", ""], [], []),

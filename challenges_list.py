@@ -11,7 +11,7 @@ challenges_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Wave Challenge Final", "116005641", "The layout of a random wave challenge.", "12kSrHiKKy8", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
     ("LegendOfConsistensy", "92834008", "2 players mode consistensy challenge.", "89DMw4Mizag", {"Uranium": "DzTbL22toR8", "Djo2x": "LoU1AbU8uCg"}),
     ("DaughterHouse", "91833325", "A wave consistensy challenge I made a longtime ago. The demon at the beginning is my sister.", "None", {"Uranium": "-ksCPqt1qyU", "Djo2x": "LoU1AbU8uCg"}),
-    ("Shitty Endless River", "127610296", "X5 River's part from Shitty Slaughterhouse + ending verified by Roxy", "", {"Roxy": "78VvdYYHg6I", "Uranium": "MVpXlyuSz1o", "Minh": "3lRV889CUCA"}),
+    ("Shitty Endless River", "127610296", "X5 River's part from Shitty Slaughterhouse + ending verified by Roxy", "", {"Roxy": "78VvdYYHg6I", "Uranium": "MVpXlyuSz1o", "Minh": "3lRV889CUCA", "Djo2x": "Op_QTHJdT9wU"}),
     ("SpaM VII", "117690307", "Loooooong swing straight fly.", "None", {"Djo2x": "LoU1AbU8uCg"}),
     ("Pushing On", "106145402", "Small wave consistensy challenge, the structure is repeated 4 times", "Fk_E80P2xo0", {"Uranium": "DzTbL22toR8", "Djo2x": "LoU1AbU8uCg"}),
     ("RI Wave x2", "92957129", "Rainbow had an \"impossible\" version and this is the wave from that version but two times in a row.", "4qaz8HmjEiA", {"Uranium": "DzTbL22toR8", "Djo2x": "LoU1AbU8uCg"}),

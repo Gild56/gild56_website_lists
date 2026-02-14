@@ -1,8 +1,8 @@
 players: list[tuple[str, list[str], list[str], list[str]]] = [
     ("Gild56", ["@gild56gmd", "UA", "Gild56", "The owner and the coder of this website and the creator of all these levels :) Hardest: Acu on Android 60hz jump from CraZy in 1.5 year and 115k attempts (yea krazy)", ""], [], []),
-    ("Toffelz", ["@toffelz", "FR", "", "A french player, playtester of Shitty Boobawamba. Hardest: Bloodbath / Aftermath", "GOAT"], [], []),
+    ("Toffelz", ["@toffelz", "FR", "", "A french player, playtester of Shitty Boobawamba. Hardest: Bloodbath / Aftermath", ""], [], []),
     ("MysticNull", ["@mystic_nullgmd", "US", "MysticNull", "A friend, YouTuber, and demon slayer from Florida. He verified Shitty Andromeda on video without even knowing that no one had ever completed it on video before, lol. He has his own Discord server and a website with a list that inspired this one ;) Hardest: Allegiance", ""], [], []),
-    ("kevino", ["@qelzzu", "DO", "00kev", "A friend, the verifier of Psychedelique and the first vicor of Shitty Amethyst. Hardest: Future Funk", ""], [], []),
+    ("Kevino", ["@qelzzu", "DO", "00kev", "A friend, the verifier of Psychedelique and the first vicor of Shitty Amethyst. Hardest: Future Funk", ""], [], []),
     ("Uranium", ["@UraniumGMD", "AZ", "", "Hardest: Auto Play Arena | Hacked everything", "HACK"], [], []),
     ("Itwabosballss", ["@Picklehi27GD", "Unknown", "", "A person probably. Hardest: Reanimate", ""], [], []),
     ("Panzer", ["@TheRealPanzer", "Unknown", "", "A person probably", ""], [], []),

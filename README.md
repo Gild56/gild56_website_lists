@@ -2,4 +2,6 @@
 
 The level lists for the [Gild56's website](https://misha.devatlant.com)
 
-You can chek the top [there](https://misha.devatlant.com/lists/levels)
+You can check the top [there](https://misha.devatlant.com/lists/levels)
+
+To contribute, please read [the contributing file](CONTRIBUTING.md)

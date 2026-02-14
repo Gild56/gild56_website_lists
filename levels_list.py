@@ -10,7 +10,7 @@ levels_list_top: list[tuple[str, str, str, str, dict[str, str]]] = [
     ("Shitty Amethyst", "119245212", "The shitty version of Amethyst by iMist and more.", "MAbKQYjl58w", {"kevino": "6YYLqPJru3k", "Uranium": "JUtvR4n1QEg", "MysticNull": "AXXkOjcXSwc", "Xkcal": "QuJpWDgxIRg", "Djo2x": "KGjPdL_UKYQ", "Minh": "qkCziGeTFhI", "Miquella": "OfD6hGcVTr0", "Toffelz": "D22w94NO0ZU", "Roxy": "bl6iMmSM07c", "ScOrbunn7": "MPcAEAmiZs0"}),
     ("Shitty Defeated Circles", "130648436", "Built mostly live and verified by Roxy :3", "eXo_9nAYvCI", {"Roxy": "saN5pFhCZ-c", "ScOrbunn7": "TenwovHAA9Q", "Djo2x": "CacGeRo7f8o"}),
     ("Shitty Slaughterhouse", "127573819", "Verified by Roxy :ifre:", "", {"Roxy": "ZRw9A2llD6E", "Uranium": "2fYrAHGpwuI", "Toffelz": "y-XGiIuouyI", "Minh": "3lRV889CUCA", "AuguXD": "TrtNW2UPRaQ", "Djo2x": "fH6lDPdtu98"}),
-    ("Shitty Nullscapes", "127821301", "Cool easter egg incoming...", "", {"Roxy": "vrlNIptiFWc", "Ben": "qgOvjUWImIk", "Djo2x": "OPkenuWibzw"}),
+    ("Shitty Nullscapes", "127821301", "Cool easter egg incoming...", "", {"Roxy": "vrlNIptiFWc", "Toffelz": "eTmFxRUUmM", "Ben": "qgOvjUWImIk", "Djo2x": "OPkenuWibzw"}),
     ("Shitty Cobwebs", "128122866", "Verified by Toffelz", "", {"Toffelz": "WK7lPlMtRuw", "Djo2x": "UswABKMJcN4"}),
     ("Shmyak", "95464632", "The bossfight of this level is unfinished, it was supposed to be decorated.", "", {"Toffelz": "CQe27eN5gMs", "Djo2x": "5UNx-_lv4sE"}),
     ("Shitty Unknown", "128229264", "Verified by Toshi :)", "", {"Toshi": "eJuJqREzBjw", "Toffelz": "MGvpgawMgxQ", "Roxy": "zjw90MZIMCI", "Djo2x": "JCpC8eyVxrU"}),

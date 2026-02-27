@@ -27,8 +27,8 @@
         "Raindance": "pc",
         "Air Tech": "pc"
     }],
-    "MysticNull": ["<@1124505208911839242> :flag_us:", ["Bloodbath", "Allegiance", "Cataclysm", "Acu"]],
-    "Djo2x": ["<@1329630390805205082> :flag_cv:", ["Disastrous Downpour", "Napalm", "Niwa", "Mizureta", "Acu", "Prizmatic Haze"]],
+    "Summit": ["Bloodbath", "Allegiance", "The Flawless", "Crowd Control", "Prismatic Haze"],
+    "Djo2x": ["<@1329630390805205082> :flag_cv:", ["Disastrous Downpour", "Napalm", "Niwa", "Mizureta", "Acu", "Prismatic Haze"]],
     "Minh": ["<@952936770826297374> :flag_vn:", ["Clarity", "Niwa", "Acu"]],
     "ItzPampirs": ["<@1064243560565714954> :flag_ua:", ["Niwa"]],
     "Gild56": ["<@1164961446732501125> :flag_ua:", {
@@ -41,5 +41,6 @@
     "Kikouiz": ["<@1065214890404483092> :flag_fr:", ["Acu"]],
     "Ylissen": ["<@821722097881448448> :flag_ma:", ["Bloodbath", "Hypersonic", "Cataclysm", "Acu", "Leyak"]],
     "Nhelv": ["<@895076318411120671>", ["La Llorona", "Acu"]],
-    "Sepanzer": ["<@1455942202122436761> :flag_de:", ["Bloodbath", "Cataclysm", "Sweater Weather"]]
+    "Sepanzer": ["<@1455942202122436761> :flag_de:", ["Bloodbath", "Cataclysm", "Sweater Weather"]],
+    "MysticNull": ["<@1124505208911839242> :flag_us:", ["Bloodbath", "Allegiance", "Cataclysm", "Acu"]]
 }

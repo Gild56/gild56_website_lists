@@ -1,6 +1,6 @@
 {
     "Illyes": ["<@789818617238650930> :flag_fr:", [
-        "KOCMOC", "Network", "Aerial Gleam", "Natural Disaster", "Renevant", "Crackhead Circles", "Dry Out Copyable 2", "Sonic Wave", "WaveBreaker", "poocubed", "PSYCHOPATH", "Carnage Mode", "BPATA MPAKA", "Amalgam", "Axiom Asterism", "Cosmic Cyclone", "Firework", "Promethean", "The Rupture", "Shardscapes", "Unknown", "Broken Signal", "Climax", "Robi", "Red World", "Forbidden Isle", "Jesse Pinkman", "The Golden", "Excruciation Chamber", "Allegiance", "Falling Up", "Axinie", "Blade Of Justice", "Knights Of Thunder", "Bloodlust", "Sigma Interface", "The Yandere", "Reverence", "Sigma Interface", "Tuapeka", "Hypersonic", "9Blue", "Acu", "Bloodbath", "Freedom08", "XO", "Reanimate", "Auditory Breaker", "Niwa", "Digital Descent", "Le Fishe", "Cataclysm", "Arctic Lights", "RUST", "TANTRUM", "Penombre"
+        "Deimos", "Slaughterhouse", "KOCMOC", "Network", "Aerial Gleam", "Natural Disaster", "Renevant", "Crackhead Circles", "Dry Out Copyable 2", "Sonic Wave", "WaveBreaker", "poocubed", "PSYCHOPATH", "Carnage Mode", "BPATA MPAKA", "Amalgam", "Axiom Asterism", "Cosmic Cyclone", "Firework", "Promethean", "The Rupture", "Shardscapes", "Unknown", "Broken Signal", "Climax", "Robi", "Red World", "Forbidden Isle", "Jesse Pinkman", "The Golden", "Excruciation Chamber", "Allegiance", "Falling Up", "Axinie", "Blade Of Justice", "Knights Of Thunder", "Bloodlust", "Sigma Interface", "The Yandere", "Reverence", "Sigma Interface", "Tuapeka", "Hypersonic", "9Blue", "Acu", "Bloodbath", "Freedom08", "XO", "Reanimate", "Auditory Breaker", "Niwa", "Digital Descent", "Le Fishe", "Cataclysm", "Arctic Lights", "RUST", "TANTRUM", "Penombre"
     ]],
     "Qibli": ["<@1316135077570154526> :flag_fr:", [
         "Widestep", "qoUEO", "Sary Never Clear", "NecropoliX", "The Moon Below", "Our Fountain", "Hidden in the Sand", "Microsoft DriveThru", "hot rod", "Misfire", "Wild Rose", "Through The Decay", "Bloodbath", "Acu", "Cataclysm", "Welcome To GD News"
@@ -42,5 +42,11 @@
     "Ylissen": ["<@821722097881448448> :flag_ma:", ["Bloodbath", "Hypersonic", "Cataclysm", "Acu", "Leyak"]],
     "Nhelv": ["<@895076318411120671>", ["La Llorona", "Acu"]],
     "Sepanzer": ["<@1455942202122436761> :flag_de:", ["Bloodbath", "Cataclysm", "Sweater Weather"]],
-    "MysticNull": ["<@1124505208911839242> :flag_us:", ["Bloodbath", "Allegiance", "Cataclysm", "Acu"]]
+    "MysticNull": ["<@1124505208911839242> :flag_us:", ["Bloodbath", "Allegiance", "Cataclysm", "Acu"]],
+    "AidanYTofficial": ["", [
+        "Cataclysm", "Niwa", "Dark Odyssey", "Bloodbath", "Phobos", "Aftermath", "Sonic wave", "Sonic wave rebirth", "Auditory Breaker", "Blade of Justice", "Betrayal of fate", "Athanatos", "Broken Signal", "Idols", "Pumped Up Kicks", "Panasonic", "Subsonic", "Hypersonic", "Bloodlust", "Shardscapes", "Cold Sweat"
+    ]],
+    "Vexumm": ["", [
+        "Acu", "Azurite", "Deception Dive", "Sakupen Hell", "WcropoliX", "Conical Depression", "Cataclysm", "Sweather Weather"
+    ]]
 }

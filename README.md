@@ -10,9 +10,10 @@ Gild List replacement on [Global Demonlist](https://demonlist.org/classic)'s Web
 
 # Add you to the Gild List
 
+- Rules of the list: https://docs.google.com/document/d/175JXSvwwOD0jXMXp24Llsg0-4lgEofpFAeNFF7lGRQY/edit?usp=sharing
 - Create account form: https://forms.gle/zox839bvvHJEsuGU8
 - Submit record form: https://forms.gle/4Bq7EfWBqid7D7ro8
-- Add your level to the Gild Server List: https://forms.gle/VAqJRdPQK47DafAC8
+- Add your level to the Gild Server List form: https://forms.gle/VAqJRdPQK47DafAC8
 
 # Gild list rules
 

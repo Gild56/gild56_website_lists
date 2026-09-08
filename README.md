@@ -28,3 +28,6 @@ Gild List replacement on [Global Demonlist](https://demonlist.org/classic)'s Web
 - Levels under 30 seconds are usually added to the Gild Challenges List and longer ones are added to the regular Gild List
 
 Any rule can be overridden by Gild56 because... uhh that's my list lol
+
+## Extreme demons leaderboard and the server lists are not ready/outdated
+It is in my TODO list :)
